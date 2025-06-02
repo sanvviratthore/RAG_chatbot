@@ -1,6 +1,5 @@
 RAG-Based Chatbot (Jupyter Notebook)
 
-Description
 This is a Retrieval-Augmented Generation (RAG) chatbot built using LangChain, FAISS, and LLMs like OpenAI or HuggingFace models. It retrieves relevant chunks from your custom documents and generates intelligent, context-aware responses — all within a Jupyter Notebook.
 
 Features
@@ -28,7 +27,6 @@ OpenAI or HuggingFace Transformers
 Jupyter Notebook
 
 Setup Instructions
-
 Step 1: Clone the repository
 git clone https://github.com/your-username/rag-chatbot.git
 cd rag-chatbot
@@ -59,4 +57,3 @@ Explain section 2 in simple terms.
 
 License
 This project is licensed under the MIT License.
-
