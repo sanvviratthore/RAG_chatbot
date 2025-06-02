@@ -1,6 +1,6 @@
 # RAG-Based Chatbot (Jupyter Notebook)
 
-This is a **Retrieval-Augmented Generation (RAG)** chatbot built using **LangChain**, **FAISS**, and **LLMs** like **OpenAI** or **HuggingFace** models. It retrieves relevant chunks from your custom documents and generates intelligent, context-aware responses — all within a **Jupyter Notebook**.
+This is a **Retrieval-Augmented Generation (RAG)** chatbot built using **LangChain**, **FAISS**, and **LLM** like **OpenAI** models. It retrieves relevant chunks from your custom documents and generates intelligent, context-aware responses — all within a **Jupyter Notebook**.
 
 **Features**  
 - Load documents in **PDF, TXT, or Markdown** formats  
