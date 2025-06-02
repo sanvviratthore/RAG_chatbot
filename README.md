@@ -28,6 +28,7 @@ OpenAI or HuggingFace Transformers
 Jupyter Notebook
 
 Setup Instructions
+
 Step 1: Clone the repository
 git clone https://github.com/your-username/rag-chatbot.git
 cd rag-chatbot
